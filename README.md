@@ -1,2 +1,3 @@
-# directories.zsh
-copied from [oh my zsh](https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/directories.zsh) removed ls aliases
+# omz-extracted
+
+Tiny modification based on oh my zsh plugins/libs
